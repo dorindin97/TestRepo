@@ -12,5 +12,10 @@ namespace ConsoleApp
         {
             Console.WriteLine("Hello world");
         }
+
+        static void P ()
+        {
+            Console.WriteLine("Hello world 4");
+        }
     }
 }
