@@ -10,14 +10,24 @@ namespace ConsoleApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello world");
-
-            Console.WriteLine("Hello world 2");
+            Console.WriteLine("Hello world 1");
+            
+            Console.WriteLine("Hello world 3");
+            Test();
         }
-
-        static void P ()
+        static void Test()
         {
+
             Console.WriteLine("Hello world 4");
+
+            Console.WriteLine("Hello world 5");
         }
+		static void P()
+        {
+
+            Console.WriteLine("Hello world 4");
+
+        }
+        
     }
 }
