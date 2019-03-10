@@ -15,9 +15,6 @@ namespace ConsoleApp
             Console.WriteLine("Hello world 2");
         }
 
-        static void P ()
-        {
-            Console.WriteLine("Hello world 4");
-        }
+        
     }
 }
