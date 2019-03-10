@@ -17,11 +17,16 @@ namespace ConsoleApp
         }
         static void Test()
         {
-<<<<<<< HEAD
+
             Console.WriteLine("Hello world 4");
-=======
->>>>>>> master
+
             Console.WriteLine("Hello world 5");
+        }
+		static void P()
+        {
+
+            Console.WriteLine("Hello world 4");
+
         }
         
     }
